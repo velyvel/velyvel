@@ -1,8 +1,10 @@
 header here
 
-✅ contact
-📨: eathergs012@gmail.com
-📝 : https://devdevleyy.tistory.com
+<div>
+    ✅ contact<br>
+    📨: eathergs012@gmail.com<br>
+    📝 : https://devdevleyy.tistory.com <br>
+</div>
 
 🏆 certification
 2023.05 정보처리기사
