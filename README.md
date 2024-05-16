@@ -53,5 +53,5 @@
 </div>
 
 <div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eathergs012@gmail.com&show_icons=true&theme=radical)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=velyvel&show_icons=true&theme=radical)
 </div>
